@@ -12,7 +12,8 @@ Download the .zip file for the version you want to use (contains the folder
 enter the command: /function satnav:give
 
 With v0.1 & v1, the first right-click sets the target at your current location.
-Moving and clicking again will reset it there; clicking twice in the same spot will clear the satnav and stop it tracking.
+Moving and clicking again will reset it there; clicking twice in the same spot will
+clear the satnav and stop it tracking.
 
 v2 uses raycasting to identify the block the player is *looking at*,
 rather than where they're currently standing.
