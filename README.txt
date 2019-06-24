@@ -3,12 +3,12 @@ Instructions:
 Download the .zip file for the version you want to use (contains the folder
 'data' and file 'pack.mcmeta') and place it in the datapacks folder of your world:
 
-- v2.0.0 requires you click on a banner to set the target location there
+- v2.0 requires you click on a banner to set the target location there
 (similar to creating Map Markers). Also contains a custom recipe [4 iron + 1 quartz].
 
-- v1.0.0 doesn't fuss with banners, but still contains the recipe.
+- v1.0 doesn't fuss with banners, but still contains the recipe.
 
-- v0.5.0 is stripped down to just the basics. To get the satnav you'll have to
+- v0.5 is stripped down to just the basics. To get the satnav you'll have to
 enter the command: /trigger get_satnav [this can be done even if you're not op]
 
 With v0.5 & v1, the first right-click sets the target at your current location.
