@@ -8,10 +8,10 @@ Download the .zip file for the version you want to use (contains the folder
 
 - v1.0.0 doesn't fuss with banners, but still contains the recipe.
 
-- v0.1 is stripped down to just the basics. To get the satnav you'll have to
-enter the command: /function satnav:give
+- v0.5.0 is stripped down to just the basics. To get the satnav you'll have to
+enter the command: /trigger get_satnav [this can be done even if you're not op]
 
-With v0.1 & v1, the first right-click sets the target at your current location.
+With v0.5 & v1, the first right-click sets the target at your current location.
 Moving and clicking again will reset it there; clicking twice in the same spot will
 clear the satnav and stop it tracking.
 
@@ -21,7 +21,7 @@ rather than where they're currently standing.
 
 Commands:
 
-To give yourself a satnav without crafting (necessary in v0.1):
+To give yourself a satnav without crafting:
 
 /function satnav:give
 
